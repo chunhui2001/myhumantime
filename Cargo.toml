@@ -11,9 +11,9 @@
 # will likely look very different (and much more reasonable)
 
 [package]
-edition = "2022"
+edition = "2018"
 name = "myhumantime"
-version = "1.0"
+version = "1.0.0"
 authors = ["keesh.zhang<chunhui2001@gmail.com>"]
 description = "    A parser and formatter for std::time::{Duration, SystemTime}\n"
 homepage = "https://github.com/chunhui2001/myhumantime"
