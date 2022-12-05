@@ -14,15 +14,15 @@
 edition = "2022"
 name = "myhumantime"
 version = "1.0"
-authors = ["Paul Colomiets <paul@colomiets.name>"]
+authors = ["keesh.zhang<chunhui2001@gmail.com>"]
 description = "    A parser and formatter for std::time::{Duration, SystemTime}\n"
-homepage = "https://github.com/tailhook/humantime"
+homepage = "https://github.com/chunhui2001/myhumantime"
 documentation = "https://docs.rs/myhumantime"
 readme = "README.md"
 keywords = ["time", "human", "human-friendly", "parser", "duration"]
 categories = ["date-and-time"]
 license = "MIT/Apache-2.0"
-repository = "https://github.com/tailhook/humantime"
+repository = "https://github.com/chunhui2001/myhumantime"
 
 [lib]
 name = "myhumantime"
